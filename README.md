@@ -1,1 +1,5 @@
-# DataNatives2022
+# Getting to the core of Edge ML and Tiny ML
+
+Edge ML (Machine Learning) is an emerging revolutionary technology that analyzes and processes incoming data at the source device and, using that analysis, identifies if needs to be processed by in the Cloud vs locally. According to Gardner(1) by 2022 more than half of enterprises-generated data will be created and processed outside of data centers and/or Cloud. As this growing demand for applications that require real-time actionabilities the organizations need to find new strategies and this is where Edge ML can become a possible solution. Edge ML removes both physical limitations related to network latency and security concerns related to storing personal user information in the Cloud. In this session we will see how this impacts business strategy and in more detail the emerging TinyML technique that integrates reduced and optimized ML applications that traditionally require a full-stack data center and/or Cloud solution.
+
+(1) https://www.gartner.com/en/newsroom/press-releases/2018-12-03-gartner-says-the-future-of-it-infrastructure-is-always-on-always-available-everywhere
